@@ -77,5 +77,5 @@ The dataset used in this project was sourced from the U.S. Department of Transpo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/flight-delay-prediction.git
+   git clone https://github.com/AYUSH-002/Data-Driven-Approach-to-Forecasting-and-Managing-Flight-Delays.git
    cd flight-delay-prediction
